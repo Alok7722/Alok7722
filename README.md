@@ -37,8 +37,7 @@ Seeking opportunities as a QA Engineer, Automation Test Engineer, or SDET where 
 ### 📫 Connect With Me
 
 * Email: [alokkr.mailbox@gmail.com](mailto:alokkr.mailbox@gmail.com)
-* LinkedIn: linkedin.com/in/alokkr7722
-* GitHub: github.com/Alok7722
+* LinkedIn:https://www.linkedin.com/in/alokkr7722/
 
 ⭐ Passionate about Software Quality Assurance, Test Automation, and Continuous Learning.
 
